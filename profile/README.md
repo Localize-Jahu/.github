@@ -1,6 +1,6 @@
 <div align="center">
   
-![Logotipo da Localize Jahu](assets/images/logo_4C4452.png)
+![Logotipo da Localize Jahu](https://github.com/Localize-Jahu/.github/blob/main/images/4C4452.png)
 
 </div>
 
