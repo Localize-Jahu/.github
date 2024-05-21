@@ -41,6 +41,14 @@ A documentação completa do projeto, incluindo detalhes sobre o processo de des
 
 [Documentação do Projeto](https://github.com/Localize-Jahu/Documentos)
 
+## Aplicação
+
+O processo de criação da aplicação web envolveu várias etapas para assegurar um desenvolvimento eficiente e eficaz.
+A aplicação web pode ser acessada através dos seguintes links:
+
+- [Website](https://localize-jahu.github.io),
+- [Repositório do projeto](https://github.com/Localize-Jahu/Localize-Jahu.github.io).
+
 ## Fale conosco
 
 Se tiver alguma dúvida, sugestão ou feedback sobre a aplicação, não hesite em nos contatar. 
