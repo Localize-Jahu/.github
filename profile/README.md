@@ -29,12 +29,6 @@ O Projeto Interdisciplinar é uma iniciativa avaliativa do primeiro semestre do 
 - **Soluções Inovadoras:** Estimular a criatividade e a inovação na busca de soluções práticas e eficientes.
 - **Preparação para o Mercado:** Proporcionar uma experiência prática que prepare os alunos para os desafios profissionais no desenvolvimento de software.
 
-## Requisitos
-
-- Desenvolver o front-end de uma aplicação web utilizando **HTML** e **CSS**.
-- Utilizar ferramentas de controle de versão como **Git** e **GitHub**.
-- É permitido o uso de linguagens de programação adicionais, frameworks e bibliotecas.
-
 ## Documentação
 
 A documentação completa do projeto, incluindo detalhes sobre o processo de desenvolvimento, funcionalidades, tecnologias utilizadas e instruções de uso, está disponível no link abaixo:
